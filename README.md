@@ -3,6 +3,8 @@
 
 Xeno AI 2 is a game built on Unreal Engine 5.1 where the player is relentlessly chased by an simple enemy AI character. Prepare yourself for an immersive gaming experience as you navigate through liminal spaces, employ strategies, and outsmart your pursuer.
 
+**Currently no .exe file available!**
+
 ## Table of Contents
 
 - [Features](#features)
@@ -19,7 +21,8 @@ Xeno AI 2 is a game built on Unreal Engine 5.1 where the player is relentlessly 
 
 
 ## Gameplay
-Level design is inspired from- [Backrooms](https://en.wikipedia.org/wiki/The_Backrooms) and Blade Runner 2049
+Level design is inspired from [Backrooms](https://en.wikipedia.org/wiki/The_Backrooms) and Blade Runner 2049. Currently consists of basic movement mechanics and some stealth mechanism inspired from Alien: Isolation. 
+There is some footages from the game.
 
 ![Screenshot 2024-07-25 144757](https://github.com/user-attachments/assets/35937032-b295-4e85-b27c-4dbe722fb5a4)
 <div style="display: flex; justify-content: center; gap: 20px;">
