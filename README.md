@@ -20,6 +20,9 @@ Xeno AI 2 is an exciting game built on Unreal Engine 5.1 where the player is rel
 - Exciting sound effects and background music
 - Gamepad and keyboard support for controls
 
+## Gameplay
+https://github.com/user-attachments/assets/9a824808-1aa2-4ccc-bb2a-93cc92e59862
+
 ## Installation
 
 To play Xeno AI 2, follow these steps:
