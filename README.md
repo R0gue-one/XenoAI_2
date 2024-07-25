@@ -1,7 +1,7 @@
 # XenoAI_2
 
 
-Xeno AI 2 is an exciting game built on Unreal Engine 5.1 where the player is relentlessly chased by an advanced enemy AI character. Prepare yourself for an intense and immersive gaming experience as you navigate through challenging levels, employ strategies, and outsmart your pursuer.
+Xeno AI 2 is a game built on Unreal Engine 5.1 where the player is relentlessly chased by an simple enemy AI character. Prepare yourself for an immersive gaming experience as you navigate through liminal spaces, employ strategies, and outsmart your pursuer.
 
 ## Table of Contents
 
@@ -14,18 +14,36 @@ Xeno AI 2 is an exciting game built on Unreal Engine 5.1 where the player is rel
 ## Features
 
 - Dynamic enemy AI that adapts to player behavior
-- Realistic and immersive graphics powered by Unreal Engine 5.1
-- Intense gameplay with challenging levels
+- Realistic and immersive graphics powered by Unreal Engine 5
 - Stealth and evasion mechanics to outsmart the enemy
-- Exciting sound effects and background music
-- Gamepad and keyboard support for controls
+
 
 ## Gameplay
 Level design is inspired from- [Backrooms](https://en.wikipedia.org/wiki/The_Backrooms) and Blade Runner 2049
-https://github.com/user-attachments/assets/9a824808-1aa2-4ccc-bb2a-93cc92e59862
-![Screenshot 2024-07-25 144837](https://github.com/user-attachments/assets/eb42508b-2e47-4241-9f73-19f587abc40b)
-![Screenshot 2024-07-25 144913](https://github.com/user-attachments/assets/6183dbd7-bed8-41fc-9a1d-b39cb134b788)
+
 ![Screenshot 2024-07-25 144757](https://github.com/user-attachments/assets/35937032-b295-4e85-b27c-4dbe722fb5a4)
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github.com/user-attachments/assets/eb42508b-2e47-4241-9f73-19f587abc40b" alt="Image 1" style="width: 49%;">
+    <img src="https://github.com/user-attachments/assets/6183dbd7-bed8-41fc-9a1d-b39cb134b788" alt="Image 2" style="width: 49%;">
+</div>
+
+https://github.com/user-attachments/assets/5fa34963-fb42-4439-8195-49b1053a7360
+
+
+### Stealth Mechanism -
+Hiding under the table 
+
+
+https://github.com/user-attachments/assets/89ce1144-688d-40f4-80e5-a316d405a321
+
+Hiding inside locker
+
+
+
+https://github.com/user-attachments/assets/12b520b7-6c4e-4b22-868c-7b15e067282c
+
+
+
 
 
 ## Installation
@@ -46,20 +64,11 @@ Xeno AI 2 supports both gamepad and keyboard controls. Here are the default cont
 
 
 - **Keyboard:**
-  - WASD : Move player character
+  - W A S D : Move player character
   - Spacebar: Jump
-  - E key: Interact
-  - Esc key: Exit game
+  - E: Interact
+  - V: change view
 
-## Gameplay
-
-In Xeno AI 2, you play as the protagonist, who finds themselves in a dangerous situation where an advanced enemy AI character is relentlessly chasing them. Your objective is to survive by evading, outmaneuvering, and outsmarting the enemy.
-
-As you progress through the game, the enemy AI becomes more intelligent, adapting its behavior to your actions. It will analyze your movement patterns, search for opportunities to corner you, and attempt to predict your next moves. Be vigilant and strategic in your approach to stay one step ahead.
-
-The game features multiple levels with varying difficulty. Each level presents unique challenges, obstacles, and opportunities to escape. Utilize your environment, employ stealth, and use your special abilities wisely to turn the tide in your favor.
-
-Good luck, and may your survival instincts guide you through the intense pursuit!
 
 ## Contributing
 
